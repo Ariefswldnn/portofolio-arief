@@ -4,7 +4,7 @@ export default function Home() {
 
       {/* NAVBAR */}
       <nav className="flex justify-between items-center p-6 border-b border-gray-800">
-        <h1 className="text-xl font-bold">Web Saya</h1>
+        <h1 className="text-xl font-bold">Selamat Datang</h1>
         <div className="space-x-4 text-gray-300">
           <a href="#about" className="hover:text-white">About</a>
           <a href="#portfolio" className="hover:text-white">Portfolio</a>
